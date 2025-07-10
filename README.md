@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=otonalbert)](https://solved.ac/otonalbert)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al17OTON&layout=compact&theme=tokyonight)
